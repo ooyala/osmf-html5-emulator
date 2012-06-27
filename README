@@ -1,0 +1,6 @@
+A light weight OSMF based player that emulate a HTML 5 video tag with the help of a wrapper JS.
+
+Minor difference:
+  No attribute setter for src, instead use function load(src)
+
+More Usage is coming.
